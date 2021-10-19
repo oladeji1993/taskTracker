@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Reading",
+      "day": "March 1st at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 31027,
+      "text": "UI Modification",
+      "day": "20 of march 2021",
+      "reminder": true
+    },
+    {
+      "text": "Tutorial class",
+      "day": "march 30 at 2pm",
+      "reminder": true,
+      "id": 31028
+    }
+  ]
+}
